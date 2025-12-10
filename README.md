@@ -21,13 +21,15 @@
 **Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=f0db4f) ![Vue.js](https://img.shields.io/badge/Vue.js-222222?style=for-the-badge&logo=vuedotjs&logoColor=41B883) ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8) ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=7911ee) ![HTML](https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=html5&logoColor=ffa500) ![CSS](https://img.shields.io/badge/CSS-222222?style=for-the-badge&logo=css3&logoColor=2965f1)<br>
 **Инструменты:** ![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=0db7ed) ![Postman](https://img.shields.io/badge/Postman-222222?style=for-the-badge&logo=postman&logoColor=f76935) ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=f9d71c) ![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-222222?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-222222?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00) ![Notion](https://img.shields.io/badge/Notion-222222?style=for-the-badge&logo=notion&logoColor=ffffff)
 
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&cache_seconds=7200&v=5" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com/?user=isikjon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=460&v=5" alt="GitHub streak">
-</div>
+</div><br>
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200&v=4" alt="Top languages">
-</div>
+</div><br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isikjon&style=flat-square&color=blue&v=1" alt="Profile views">
 </div>
