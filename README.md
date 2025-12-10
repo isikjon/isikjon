@@ -26,16 +26,18 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&cache_seconds=7200&v=5" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com/?user=isikjon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=460&v=5" alt="GitHub streak">
-</div><br>
+</div>
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200&v=4" alt="Top languages">
-</div><br>
+</div>
+<br>
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isikjon&style=flat-square&color=blue&v=1" alt="Profile views">
 </div>
-<div align="center">
-  <sub>Если снова 404/Error Fetching Resource — это лимиты Camo/Stats. Обнови позже или переключи зеркала: stats → <code>github-readme-stats.vercel.app</code> / <code>github-readme-stats-sigma-five.vercel.app</code>; top-langs → <code>github-readme-stats-git-masterrstaa-rickstaa.vercel.app</code>; streak (прямой вызов) → https://streak-stats.demolab.com/?user=isikjon&theme=dark&hide_border=true</sub>
-</div>
+
 
 ## 📌 Форматы работы
 
