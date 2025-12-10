@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fon.png" alt="Cover" width="100%">
+  <img src="matrix.jpg" alt="Cover" width="100%">
 </p>
 
 <h1 align="center">FullStack Web Developer</h1>
