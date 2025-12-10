@@ -23,11 +23,11 @@
 
 ## 📊 Немного метрик
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&cache_seconds=7200&v=1" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com?user=isikjon&theme=transparent&hide_border=true&v=1" alt="GitHub streak">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&cache_seconds=7200&v=2" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com?user=isikjon&theme=dark&hide_border=true&v=2" alt="GitHub streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=7200&v=1" alt="Top languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200&v=2" alt="Top languages">
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isikjon&style=flat-square&color=blue&v=1" alt="Profile views">
