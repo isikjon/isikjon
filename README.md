@@ -23,17 +23,17 @@
 
 ## 📊 Немного метрик
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&cache_seconds=86400" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com?user=isikjon&theme=transparent&hide_border=true" alt="GitHub streak">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&cache_seconds=7200&v=1" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com?user=isikjon&theme=transparent&hide_border=true&v=1" alt="GitHub streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=7200&v=1" alt="Top languages">
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isikjon&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=isikjon&style=flat-square&color=blue&v=1" alt="Profile views">
 </div>
 <div align="center">
-  <sub>Если GitHub Stats/Streak возвращают 404 из-за лимитов, обнови страницу позже; можно переключить зеркало stats на <code>github-readme-stats.vercel.app</code> или <code>github-readme-stats-git-masterrstaa-rickstaa.vercel.app</code>.</sub>
+  <sub>Если снова ловишь 404/Error Fetching Resource — это лимиты Camo/Stats. Обнови позже или переключи зеркало на <code>github-readme-stats.vercel.app</code> / <code>github-readme-stats-git-masterrstaa-rickstaa.vercel.app</code> / <code>github-readme-stats-sigma-five.vercel.app</code>.</sub>
 </div>
 
 ## 📌 Форматы работы
