@@ -1,7 +1,3 @@
-```
-
-```
-
 <p align="center">
   <img src="fon.png" alt="Cover" width="100%">
 </p>
