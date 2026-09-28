@@ -1,64 +1,56 @@
 <p align="center">
-  <img src="matrix.jpg" alt="Cover" width="100%">
+  <img src="banner.jpg" alt="Iskandar Shukhratillaev — Python Backend Developer" width="100%">
 </p>
 
-<h1 align="center">FullStack Web Developer</h1>
-<p align="center">Люблю понятный код, аккуратные API и внятные инструкции по запуску.</p>
+<h2 align="center">Hi, I'm Iskandar — Python Backend Developer</h2>
+<p align="center">
+  I design and ship production backends end-to-end: architecture, database, APIs, integrations, deployment.<br>
+  5+ years of commercial work · Tashkent, Uzbekistan (UTC+5) · <b>open to remote roles</b>
+</p>
 
-## ✨ Чем я полезен
+<p align="center">
+  <a href="https://www.linkedin.com/in/iskandar-shukhratillaev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:isikjandev@gmail.com"><img src="https://img.shields.io/badge/Email-isikjandev@gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://t.me/fullstackdevelloper008"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 
-- Быстро поднимаю API/админки на Laravel, подключаю платежи и интеграции.
-- Собираю сервисы и ботов на Python (Django/FastAPI) под задачи бизнеса.
-- Делаю простые мобильные MVP на Flutter (Dart).
-- Навожу порядок в документации: README, чек-листы, инструкции.
+## What I do
 
-## ⚒️ Стек и инструменты
+- **Backends on Python** — FastAPI, Django / DRF, async SQLAlchemy 2.0, Alembic, Pydantic
+- **Data & async work** — PostgreSQL, Redis, Celery, schema design, query optimization
+- **Real-time & integrations** — WebSocket, payments, POS (iikoCloud), telephony (Zadarma), voice AI (Retell), maps (2GIS), Firebase, Telegram Bot API
+- **Infrastructure** — Docker Compose, Nginx, Linux VPS, SSL, CI basics
+- **Full-stack when needed** — Laravel / Filament, React, Next.js, TypeScript; mobile apps in Flutter
+- **Security-minded** — OWASP Top 10, JWT, 2FA/OTP, Argon2, rate limiting, RBAC
 
-**Backend/CMS:** ![PHP](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php&logoColor=8993be) ![Laravel](https://img.shields.io/badge/Laravel-222222?style=for-the-badge&logo=laravel&logoColor=ff2d20) ![WordPress](https://img.shields.io/badge/WordPress-222222?style=for-the-badge&logo=wordpress&logoColor=21759B) ![OctoberCMS](https://img.shields.io/badge/OctoberCMS-222222?style=for-the-badge&logo=octobercms&logoColor=F2672E) ![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js&logoColor=43853d)<br>
-**DB:** ![MySQL](https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=mysql&logoColor=00758f) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=0064a5) ![SQLite](https://img.shields.io/badge/SQLite-222222?style=for-the-badge&logo=sqlite&logoColor=0b6fa4)<br>
-**Python:** ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=306998) ![Django](https://img.shields.io/badge/Django-222222?style=for-the-badge&logo=django&logoColor=0c4b33) ![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=for-the-badge&logo=fastapi&logoColor=009688)<br>
-**Mobile:** ![Dart](https://img.shields.io/badge/Dart-222222?style=for-the-badge&logo=dart&logoColor=0175c2) ![Flutter](https://img.shields.io/badge/Flutter-222222?style=for-the-badge&logo=flutter&logoColor=02569b) ![React Native](https://img.shields.io/badge/React%20Native-222222?style=for-the-badge&logo=react&logoColor=61DAFB)<br>
-**Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=f0db4f) ![Vue.js](https://img.shields.io/badge/Vue.js-222222?style=for-the-badge&logo=vuedotjs&logoColor=41B883) ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8) ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=7911ee) ![HTML](https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=html5&logoColor=ffa500) ![CSS](https://img.shields.io/badge/CSS-222222?style=for-the-badge&logo=css3&logoColor=2965f1)<br>
-**Инструменты:** ![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=0db7ed) ![Postman](https://img.shields.io/badge/Postman-222222?style=for-the-badge&logo=postman&logoColor=f76935) ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=f9d71c) ![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-222222?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-222222?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00) ![Notion](https://img.shields.io/badge/Notion-222222?style=for-the-badge&logo=notion&logoColor=ffffff)
+## Featured projects
 
-<br>
-<br>
+| Project | What it is | Stack |
+|---|---|---|
+| [**Logtex CRM**](https://github.com/isikjon/logtex) | Custom Frappe CRM app for B2B sales: Zadarma telephony, Retell AI voice bot that fills the client card after a call, outbound dialing by filters, duplicate detection and data-quality checks, e2e tests | Python · Frappe · REST integrations |
+| **EcoTaxi / Wazir KG** | Taxi platform for Kyrgyzstan: REST + WebSocket API for drivers, clients and dispatchers, real-time geolocation, 2GIS maps, RBAC, push notifications, driver balance and photo control. Driver and client apps in Flutter | FastAPI · PostgreSQL · Celery · Redis · WebSocket · Flutter |
+| [**Makovka**](https://github.com/isikjon/makovka_backend) | Loyalty app for a bakery chain: phone + OTP auth, JWT, iikoCloud POS integration (guests, cards, bonus sync) and a Flutter client | FastAPI · SQLAlchemy 2.0 async · asyncpg · Alembic · Flutter |
+| [**Donskih club app**](https://github.com/isikjon/donskih) | Mobile club app with its own backend: layered FastAPI (api / services / repositories), JWT, Redis, pytest API tests, Flutter client with FCM push | FastAPI · PostgreSQL · Redis · pytest · Flutter · Firebase |
+| **Bike rental CRM** | Monorepo CRM for a bike rental & buyout business | Express · TypeScript · Prisma · Next.js |
+| [**Woodstream**](https://github.com/isikjon/woodstream_prod) | Antique furniture e-commerce with Filament admin, tuned for a large catalog, plus a real-time company messenger | Laravel 12 · Filament 3 · Reverb (WebSocket) · Docker |
+| [**Unstop VPN**](https://github.com/isikjon/unstop_vpn) | Flutter VPN client on VLESS / V2Ray via native plugins, secure config storage | Flutter · Riverpod · native plugins |
+
+## Stack
+
+**Backend:** ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=FFD43B) ![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=for-the-badge&logo=fastapi&logoColor=009688) ![Django](https://img.shields.io/badge/Django-222222?style=for-the-badge&logo=django&logoColor=44B78B) ![Celery](https://img.shields.io/badge/Celery-222222?style=for-the-badge&logo=celery&logoColor=37814A) ![Laravel](https://img.shields.io/badge/Laravel-222222?style=for-the-badge&logo=laravel&logoColor=ff2d20) ![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js&logoColor=43853d)<br>
+**Data:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![Redis](https://img.shields.io/badge/Redis-222222?style=for-the-badge&logo=redis&logoColor=DC382D) ![MySQL](https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=mysql&logoColor=00758f) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-222222?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00)<br>
+**DevOps:** ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-222222?style=for-the-badge&logo=nginx&logoColor=009639) ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032)<br>
+**Frontend & mobile:** ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Flutter](https://img.shields.io/badge/Flutter-222222?style=for-the-badge&logo=flutter&logoColor=02569B)
+
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&cache_seconds=7200&v=5" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com/?user=isikjon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=460&v=5" alt="GitHub streak">
-</div>
-<br>
-<br>
-<div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200&v=4" alt="Top languages">
 </div>
-<br>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isikjon&style=flat-square&color=blue&v=1" alt="Profile views">
-</div>
 
+## How I work
 
-## 📌 Форматы работы
+1. Clarify requirements and propose architecture, DB schema and API contract.
+2. Deliver in short iterations with demos.
+3. Ship to production with Docker, docs and a clear run guide — and support it after release.
 
-- REST API, CRUD, авторизация, интеграции (webhook, платежи, email).
-- Боты и сервисы: фоновые задачи, очереди, интеграции с внешними API.
-- Мобильные интерфейсы и простые MVP на Flutter.
-- Верстка лендингов и админок под конкретные задачи.
-
-## 🚀 Сейчас прокачиваю
-
-- Чище покрывать бэкенд тестами и автоматизировать CI/CD.
-- Архитектуру для микросервисов (gRPC, очереди, кеши).
-- UI-киты для быстрых прототипов на Flutter.
-
-## 🧭 Как со мной работать
-
-1) Разбираю задачу и быстро собираю план (что/когда/какие риски).
-2) Делю на короткие итерации с демо и понятными инструкциями.
-3) Доставляю сборку, пишу README и чек-лист запуска.
-
-## 📞 Контакты
-
-- Telegram: [@fullstackdeveloper008](https://t.me/fullstackdeveloper008)
-- Kwork: [malenkisvetok](https://kwork.ru/user/malenkisvetok)
+**Languages:** English (B2) · Russian · Uzbek · Tajik
