@@ -42,10 +42,6 @@
 **DevOps:** ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-222222?style=for-the-badge&logo=nginx&logoColor=009639) ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032)<br>
 **Frontend & mobile:** ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Flutter](https://img.shields.io/badge/Flutter-222222?style=for-the-badge&logo=flutter&logoColor=02569B)
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&cache_seconds=7200&v=5" alt="GitHub stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=7200&v=4" alt="Top languages">
-</div>
 
 ## How I work
 
